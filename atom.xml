@@ -3,11 +3,11 @@
   <title>MJ</title>
   <icon>https://www.gravatar.com/avatar/70b9a01a8bf302ffb2c155eaca2bd715</icon>
   <subtitle>生活明朗 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://a1095141096.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://a1095141096.github.io/"/>
   <updated>2022-09-19T05:22:35.847Z</updated>
-  <id>http://example.com/</id>
+  <id>https://a1095141096.github.io/</id>
   
   <author>
     <name>MJ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/3eeb.html"/>
-    <id>http://example.com/posts/3eeb.html</id>
+    <link href="https://a1095141096.github.io/posts/3eeb.html"/>
+    <id>https://a1095141096.github.io/posts/3eeb.html</id>
     <published>2022-09-19T04:30:43.074Z</published>
     <updated>2022-09-19T05:22:35.847Z</updated>
     
